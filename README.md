@@ -5,7 +5,7 @@ Student Grade Manager \\ Project for J2EE course
 1. Save the database file in name of sgm.sql.
 2. Modify the database connection string in SGManager\src\com\javabean\ConToMysql to the local database.
 
-![pic](https://user-images.githubusercontent.com/54876578/111115976-4db68180-85a0-11eb-870c-95e75694727e.jpg){:height="90" width="90"}
+![pic](https://user-images.githubusercontent.com/54876578/111115976-4db68180-85a0-11eb-870c-95e75694727e.jpg)
 
 3. Use IDEA to open the SGManager.iml file.
 
