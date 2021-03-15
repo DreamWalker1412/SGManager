@@ -1,3 +1,3 @@
 # SGManager
 Student Performance Manager \\
-Projects for J2EE course
+Project for J2EE course
